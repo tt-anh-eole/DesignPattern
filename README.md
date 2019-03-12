@@ -1,5 +1,5 @@
 ## Design Patterns (In Java) - Source From Tutorial Points
-1. Factory Pattern []
+1. Factory Pattern [√]
 2. Abstract Factory Pattern []
 3. Singleton Pattern []
 4. Builder Pattern []
