@@ -13,7 +13,7 @@
 12. Flyweight Pattern []
 13. Proxy Pattern []
 14. Chain of Responsibility Pattern []
-15. Design Patterns - Command Pattern []
+15. Command Pattern [√]
 16. Interpreter Pattern []
 17. Iterator Pattern []
 18. Mediator Pattern []
