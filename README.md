@@ -3,7 +3,7 @@
 2. Abstract Factory Pattern [√]
 3. Singleton Pattern [√]
 4. Builder Pattern []
-5. Prototype Pattern []
+5. Prototype Pattern [√]
 6. Adapter Pattern []
 7. Bridge Pattern []
 8. Filter Pattern []
