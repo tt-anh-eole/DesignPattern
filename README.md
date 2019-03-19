@@ -9,7 +9,7 @@
 8. Filter Pattern [√]
 9. Composite Pattern [√]
 10. Decorator Pattern [√]
-11. Facade Pattern []
+11. Facade Pattern [√]
 12. Flyweight Pattern []
 13. Proxy Pattern []
 14. Chain of Responsibility Pattern []
