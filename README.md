@@ -10,7 +10,7 @@
 9. Composite Pattern [√]
 10. Decorator Pattern [√]
 11. Facade Pattern [√]
-12. Flyweight Pattern []
+12. Flyweight Pattern [√]
 13. Proxy Pattern []
 14. Chain of Responsibility Pattern []
 15. Command Pattern [√]
@@ -32,4 +32,3 @@
 31. Intercepting Filter Pattern []
 32. Service Locator Pattern []
 33. Transfer Object Pattern []
-
