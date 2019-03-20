@@ -11,7 +11,7 @@
 10. Decorator Pattern [√]
 11. Facade Pattern [√]
 12. Flyweight Pattern [√]
-13. Proxy Pattern []
+13. Proxy Pattern [√]
 14. Chain of Responsibility Pattern []
 15. Command Pattern [√]
 16. Interpreter Pattern []
