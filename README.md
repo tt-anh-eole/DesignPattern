@@ -17,7 +17,7 @@
 16. Interpreter Pattern [√]
 17. Iterator Pattern [√]
 18. Mediator Pattern [√]
-19. Memento Pattern []
+19. Memento Pattern [√]
 20. Observer Pattern []
 21. State Pattern []
 22. Null Object Pattern []
